@@ -1,4 +1,4 @@
-const { connect } = require('http2');
+// const { connect } = require('http2');
 var mysql = require('mysql');
 var connection = mysql.createConnection({
     host:'39.97.105.230',
