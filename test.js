@@ -54,3 +54,4 @@ connection.query(modsql,modsqlParams,(err,rs)=>{
     console.log(rs);
 })
 connection.end();
+var zmm=1
